@@ -195,9 +195,18 @@ plt.show()
 
 - ![image](https://github.com/user-attachments/assets/86a5eaa8-f7fd-426b-a970-dcda19a17f1e)
 
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
+- **ii)** Adjust Image Brightness.
+- ![image](https://github.com/user-attachments/assets/509dd5ed-1ca8-4b77-a362-0b340ee45b4b)
+
+- **iii)** Modify Image Contrast.
+- ![image](https://github.com/user-attachments/assets/c9cd59eb-6968-4c01-b209-5de9aba4f07c)
+- ![image](https://github.com/user-attachments/assets/f857f3ef-dfde-44e9-bd9e-b28653c48ae6)
+- ![image](https://github.com/user-attachments/assets/2dd66565-846a-41bc-a90c-b66fed326f93)
+
 - **iv)** Generate Third Image Using Bitwise Operations.
+- ![image](https://github.com/user-attachments/assets/a437c4bf-4981-4afb-b0d4-09fae00e86f4)
+- ![image](https://github.com/user-attachments/assets/3faf5484-14f1-4efc-9fe3-c5a8f5c89cde)
+-![image](https://github.com/user-attachments/assets/3e266b72-86c9-451f-a124-a0f6f4f5f8e1)
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
