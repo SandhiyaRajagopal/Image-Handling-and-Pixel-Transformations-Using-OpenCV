@@ -192,11 +192,12 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-- ![dip 1](https://github.com/user-attachments/assets/5a521b5f-fe85-42ed-8207-463f7ccf5d6f)
+![image](https://github.com/user-attachments/assets/6f607cb1-8833-4eb3-994e-931018077b2d)
+
 
 
 - **ii)** Adjust Image Brightness.
--![dip 2](https://github.com/user-attachments/assets/4288e468-5bf8-4a1f-81f7-ec257188bb49)
+-![image](https://github.com/user-attachments/assets/c42b070f-ed0f-4f3c-86a4-f74f5ed2dae7)
 
 - **iii)** Modify Image Contrast.
 - ![image](https://github.com/user-attachments/assets/c9cd59eb-6968-4c01-b209-5de9aba4f07c)
