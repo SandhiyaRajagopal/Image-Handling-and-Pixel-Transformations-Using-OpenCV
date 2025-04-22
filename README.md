@@ -32,7 +32,7 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
 - **Name:** [SANDHIYA R]  
-- **Register Number:** [212223240146]
+- **Register Number:** [21222324014146]
 
   ### Ex. No. 01
 
@@ -192,18 +192,19 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-![image](https://github.com/user-attachments/assets/6f607cb1-8833-4eb3-994e-931018077b2d)
-
+  ![image](https://github.com/user-attachments/assets/38d590ea-2390-4631-86a2-e5f87d4bf305)
 
 
 - **ii)** Adjust Image Brightness.
--![image](https://github.com/user-attachments/assets/c42b070f-ed0f-4f3c-86a4-f74f5ed2dae7)
+  ![image](https://github.com/user-attachments/assets/d32520d4-9830-4be4-946a-92555dd6e949)
+
 
 - **iii)** Modify Image Contrast.
-- ![image](https://github.com/user-attachments/assets/c9cd59eb-6968-4c01-b209-5de9aba4f07c)
+  ![image](https://github.com/user-attachments/assets/67c57c3f-22da-494d-9ce0-e9016d62e831)
 
 - **iv)** Generate Third Image Using Bitwise Operations.
-- ![image](https://github.com/user-attachments/assets/a437c4bf-4981-4afb-b0d4-09fae00e86f4)
+![image](https://github.com/user-attachments/assets/9d4cc928-5ddb-4866-bf14-3aab7e536269)
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
