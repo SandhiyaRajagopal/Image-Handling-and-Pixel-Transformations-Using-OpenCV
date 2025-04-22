@@ -191,7 +191,7 @@ plt.show()
 ```
 
 ## Output:
-**i)** Read and Display an Image.
+## Read and display image:
   ![image](https://github.com/user-attachments/assets/38d590ea-2390-4631-86a2-e5f87d4bf305)
 
 
